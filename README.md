@@ -1,4 +1,5 @@
-# GPT_RoPE
+# GPT2 RoPE Scaling
+RoPE,Positional Interpolation,NTK-aware,NTK-by-parts,YaRN
 
 A minimal, from-scratch implementation of GPT-2 with rotary positional embeddings (RoPE),
 plus four inference-time context-extension variants: PI, NTK-aware, NTK-by-parts, and YaRN.
