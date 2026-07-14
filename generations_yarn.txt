@@ -1,0 +1,231 @@
+=== greedy {} ===
+To be, or not to be;
+For thou shalt me more soul and one wouldst the rest.
+
+PETRUCHIO:
+Is't possible, there's nothing.
+
+PETRUCHIO:
+Thou know of mine own liege, thou art put me from my face to me; I, unlook'd,
+And do not how thy wife sound canst, for I know.
+
+PETRUCHIO:
+What is the matter for thy wife?
+
+KATHARINA:
+Anon, by the face I, how out of war?
+
+PETRUCHIO:
+This gentleman was nothing.
+
+PETRUCHIO:
+Sir, am I that very night.
+
+PETRUCHIO:
+Thou know'st my ear.
+
+PETRUCHIO:
+Gentlemen, sweet Kate: I am content to be the offence:
+Pardon me, if thou know'st my love thou canst.
+
+KATHARINA:
+Well, go, thou mustst.
+
+PETRUCHIO:
+Nay, let me see the event.
+
+PETRUCHIO:
+'Tis well, Aufidius; if I would not, I'll prove a jest from that.
+
+PETRUCHIO:
+Nay, let me see't.
+
+PETRUCHIO:
+Nay, take it not.
+
+KATHARINA:
+There is a'er man.
+
+PETRUCHIO:
+When I, in good I spake, if thou must call, thy mind, die.
+
+PETRUCHIO:
+O.
+
+PETRUCHIO:
+Nay, Kate, Kate, if thou hadst not, thou say'st it thee; if thou must stand along, thou say'st,
+Ay, thou must stand'st not, thou horse, nor to be no:'
+ of my woman, sir, nor all too, nor child, nor
+I will not send it well.
+
+PETRUCHIO:
+Thou say'st thou the maid of mine own is hid:
+I am a heart, sweetly, or seven; for it is not:
+Then never man or odd, but I'll work thee much.
+
+PETR
+
+=== temperature {'temperature': 0.8} ===
+To be, or not to be;
+For thou hast flight'd and but food,ain, lived
+To answer'st't not as theWere I, as r free mistress.
+
+PETRUCHIO:
+Here come the gallant, and
+To this break of thee, whilst come from thy opinion!
+
+PRINCE EDWARD:
+To her darkened in me tonight?
+
+HORTENSIO:
+I must confess it off,
+And bedending day, with child is it once again
+To honour that did reason that ere this gentlemanithee,
+Thou'ld ask me. Now, brother, father, these tender lady
+That it please me, and I pardon thee, daughter,
+'Tis love that begin, awake,' and noprop his face,
+To affections and my my Sibop, both. Behold, thou art a friend to be mad Bianca,
+And looks in earnest, a wife by my love's penitent?
+See thou not Hastings; what my entreaty, thou have'st it much of thine own boots,
+Into the subject to be a forward by thyself, whiles to die,
+To beGroom dead; who comes with me? or if
+To honour of your pleasure did call a wrong it, we'll plant
+This.
+
+TRANIO:
+ILet him up with you, and let us see the hour of thy mind.
+
+TRANIO:
+O, beast! my lords, Perdita, let's away.
+
+TRANIO:
+This, before thy despite of all your him pleaseth haste, they are
+monstrous ago, in a reconcileies of profound,
+Into they duke thatize them cut out of state: which, on the next we do well
+Lest thou wilt. The storm of have said thy suit,
+Lest nothing else is your fit of comfort;
+No,
+I find thee the in that employ'd home;
+And now I would have prevail'd my speech:
+ I dispossess,--
+
+MARIANA:
+O monstrous to my heart,
+Who I might be only daughter Tranio?
+
+DUKE VINCENTIO:
+O, who else you have, if a gallant begun,
+Be it not a, I mean, a kiss me that thine
+
+=== top_k {'top_k': 40, 'temperature': 1.0} ===
+To be, or not to be;
+For thou hast undone!
+
+ die at this.
+What hath the news true life wounded, away this matter?
+
+GRUMIO:
+I pray you, lady, get thee in health; therefore, till I will be content
+
+HORTows.
+
+GRUMIO:
+She I have done thy slave; can of God use wise nature never
+More that feed the world, which neverness for one word more giddy,
+Which ere this woman knomenes and Lord Angelo, was hither indeed
+What, was not to make her break upon this blood,
+He would not fly when my hand I see where 'twere a brain:
+But for the truth an officer truth, every part
+Hath given away from his face to beat my soul, and 'long are
+A slave's stirs at least now I have done to man: she speaks not still himself
+Or all my legs better twice five thousand-bed into
+Dost thou wilt blood.
+
+PROSPERO:
+O, would he come,
+I am too fast son for thy company thee. But come again,
+As now, poorittance me
+ day the world come to know my way shall.
+
+DUKE VINCENTIO:
+We pray you, uncle York,
+There are no virtuous? stand upon the leave of my love,
+If she were no but already.
+
+PRINCE EDWARD:
+Ah, woman pluck up; away.
+
+KATHARINA:
+Thou canst not speak;
+orged on charity: why, no soldier, then, why,
+Bluteous bulk, and most absolute some speech and looks
+Of a bitter thing is one than the water,
+Doth with my tongue so tender as my life's trifles.
+
+What death hath been with my heart fair, Kate and my case more care
+Than this? Heaven keep your lordship in comfort me at your wife and my
+I blush for your grave: but I pray you, let us weep?
+
+BIANCA:
+I saw a father indeed.
+
+What I have wish'd goodly seen you?
+
+QUEEN ELIZABELLA Patrician stateless
+Which I knew that but well it was.
+
+RICHARD:
+I live my brotherhood, since at least
+
+=== top_p {'top_p': 0.9, 'temperature': 1.0} ===
+To be, or not to be;
+Thou wilt beg thy sharp fame and dress'd betide upon thee,
+And renew his present death the fine cease; for I'll suffer
+My sister death duteg nimble, I would free honest son three were
+And he caught me to me: O, he the view of
+This him Bion, and music of this dust and fault,
+Call; and when he would give me thy thickest in ourance
+To be silent and mine, traitor, straight,
+To rouse him, should the well-house jewels'er,
+No, nor Ilock excellentate or else:
+Yet most cause
+Wherein of mine own fifes have a messenger
+In the weeds have I cracks blood to my head in pry like a or stir:
+She requireds or state my father, nor shout stay.
+
+TRANIO:
+He hath been requudge my wanton with sorrow; he
+So dop between respect acts; do not's cloak the truth;
+But sayapt at once fell and overtake Iere out kneel, good despite,
+Where being met as sharp to my still affords.
+
+Master conspirator,
+DUKE VINCENTIO:
+ truth, nothing shalt see your leisure shows out to be book,
+And he would count my father with breath in the field
+Where
+That gives a proud man here--
+Who, O, O, 'twere a chaste sir! it shall be my thus utmost good
+HaveSet on him pair of; no thought heymphs,
+If ere yet she had beat down any thing to part,
+ on my life, cross
+ hearts toGod me rather draw the there; yet had he'd'd,
+Thou art a particular saint worse than Edward's gowns
+Than nature.
+
+DUKE VINCENTIO:
+O, the courageous friends,
+If swift the moved by poor fools do well buy, be overta'aunting up your free laws with modesty:
+Just a lion stock he's pregnant in secret presence
+There lies
+Falsely inter garments who should to certain enmish it,
+Before I longnicious wofulans did rich, the mansion.
+
+MARIANA:
+'Tis virtue, and God!
+
+ pleased:
+I am another; here's my swift pillars that
+Here
+My lord
+

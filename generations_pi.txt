@@ -1,0 +1,268 @@
+=== greedy {} ===
+To be, or not to be;
+We are fairer than by, have, do you, be swornly--
+
+To no more,--ithee, be speed:
+The flowerorn life, that are to meet these age;--that you will bring me to this?
+
+
+DUKE VINCENTIO:
+I do remember me.
+
+
+DUKE VINCENTIO:
+Who is't, that are the matter?
+
+
+PROSPERDITA:
+Most worthy maid, my lord.
+
+
+
+LUCENTIO:
+God-bier,
+, old ladyship, by day: now, by Angelo, tribunes are you the king so fair a word like itself.
+
+
+COMINI am a slave:
+Who would have been fie, fie, fie! what grace! God! let me know?
+
+
+DUKE VINCENTIO:
+How fares my father.
+
+
+MARIANAway with you yourself?
+
+
+TRANIO:
+Fie, gentle daughter, noble prince my lord.
+
+
+
+MARIANAEdile:
+How should you better time be?
+
+
+TRANIOALONZALUS:
+Yet which your good tongue is at much.
+
+
+
+GRUMIO:
+Ay, but, but call your will Bianca; I pray you, peace be so fair.
+
+
+
+PETRUCHIO:
+Howe my bawdello, hath this kindness ready?
+
+
+MENENIUS:
+It is an end: but he.
+
+
+
+TRANIO:
+Why, that's the mustard?
+
+
+
+GRUMIO:
+Why, that's not you.
+
+
+Pedant, I thank you.
+
+
+SICINIOLAN:
+What's the matter?
+
+
+GRUMIO:
+We cannot without it, noble father.
+
+
+
+TRANIO:
+How would you say you, my lord?
+
+
+TRANIO:
+We have been the but a kindly beholding fellow.
+
+
+
+TRANIO:
+He has the right Vincentioable day, let me know't; if you know:
+How shall, Marcius be it as thee? for he's cholericiteous.
+
+
+=== temperature {'temperature': 0.8} ===
+To be, or not to be granted
+More Volly Floracles, so I amck'd lived, as shrewdlike force her, by mine own
+That first free them out ofness to the honest man of it was such a ere he here
+To use
+To one half a infant; till I know I cannot be blest to say
+Be the crown, I, I'll be a king, how the gaoler isregnable is but
+Their honour to't with death misad, or I would beUCENTIO:
+He was thus with a devil, with the soul is ordained'd it up your grace, and never
+Our third, to become of her as necessary stars,
+That reconciled father to your woo.
+
+
+
+DUKE VINCENTIO:
+It is in worthy which he under his own fault the sun that at home
+To do.
+
+
+
+TRANIO:
+God me, art the king, and gentlemen are thy kindred there,
+That Edward's my commission; the king, my soul--this language;
+There is for my holpardon's thinks, and this being discipline, my most sovereign,
+I would have spoke, to touch the man of the fawning clouds, for my wife's griefs, for my life,
+When great violence,The that blowing of you have brought me to my daughter here
+To enter still-morrow or my daughter of my brother.
+What much upon your buy thoughts are sport in despiteful life then?
+
+
+DUKE VINCENTIO:
+It is, it is impossible I know I, thou the issue of your grace thou shaltied
+Shall merriment after this hour, but justice, but purchase out to kings.
+
+
+SLYORK:
+That
+ weary other name is unthought well that must be ready; fair than she comes
+groom by great himself ever frowns out, so, as great nature is the king,
+A lack of it that a evil nature. O, O my wife,
+Sit still love his father bears, if perjured, woo'd you both these highness
+That is the foul wrongous and the mother such a the resp of my strength:
+Who'nointed pierce it this man true king, a Duke of York, is that I youngest daughter?
+
+
+ELBENVOLUMIO:
+ god:
+When
+
+=== top_k {'top_k': 40, 'temperature': 1.0} ===
+To be, or not to be;
+Not King of great, nor child is attend us hence, and here's first first King Edward's blood.
+
+
+: great Angelo shall be done. What is our worse. Come. Come, let us walk
+Thou and thy hang'st too; there stays here life a cause to the same sudden:
+This sudden obsequious liege
+Is a prettywoman for his head;
+Come on, pray you, marry blood and mercy; either we shall ne'er see
+No less dwell till he be got him.
+
+
+ Angelo to the done with him, our blood well-hearted friends.
+
+
+DUKE VINCENTIO:
+This is the first that gives fruit were the mind of death in this point.
+
+
+
+LUCENTIO:
+Why come, we well strucken, we are all that banish'd say, and none of it, thus thy uncle York;
+Gentlemen are thy friend old wife any man, being every drop'd, but by words thou' road.
+
+
+ISABELLAEdile:
+'s makesFetch me.
+
+
+
+Provost:
+In thy heaven a merry, then, if thou give me leave us a fearful man speak
+Have now already, where thou hast mean?
+
+
+ hadst thou not yeta sin: thou'rt an old, a language, foolish wither; it
+To you I'll some: it makes thee homely, a little doubt, stay awhile.
+
+
+CAMILLO:
+'T strange proof against thy faith, let's follow me thy God of thee: Ily, stay!
+
+
+QUEEN MARGARET:
+What means this tells me you that time?
+
+
+Messenger:
+We have not been, noble lordship again;
+The wretch, if thou hadst not a groansus,
+Such old man's thy mind too few, knew'st: but thou hear it first more.
+
+
+ Romans: 'tis a little fire before thy hat, nature is envious:
+Is all foul, and that which is no shrift up all one, she's face, for this idle
+My brother's: alack, which though we should yet run mad hence, when they say amen?
+
+
+GRUMNIA:
+Well, then, therefore
+
+=== top_p {'top_p': 0.9, 'temperature': 1.0} ===
+To be, or not to beems thee,
+From gentle soldiers of sovereign Lady, wanting, or thou shalt revolt with me,,:
+Which, how know thou, to prove a vow, I then give me limit but my life.
+
+I would do open me,: onlyuse mine, by earth he strength and highness conceived,
+And well indeed, indeed, stabbed myself into my chamber with greater friends.
+
+
+DUKE VINCENTIO:
+My life to bed, lying Socate banish'd with the sole Poor lords:
+Now my desert homage, with him; thy Perditauteous heart that;
+Come, beseech you, good how heOff'd, hath shown soares beard when he kiss'd
+Hisaudio to no nice in this play.imm'd and seeing offence sleep so best,
+He would not so fast? O, and O, though well certain that quaint many were still thou art
+Thy children'st off from thy quarrel? or ere coward! thou hast many gold-bed; why dost misleading me
+The ship to abroad they see this one word; therefore grieve it not my humble thanks
+To yourself our very soldier Vincentio's soldiers at the blood of that we vehement;
+But say not as if I think it is, enforce a bats and lock'd to him and begin.
+First Lord:what shame withal! but she loves thy mind under her? and how now, and then.
+
+
+etchy: the goodhaveions are they still.
+
+
+Bina, for mercy of his either in his faction?
+
+
+TRANIO:
+Iswoman:
+Marry his boy.
+
+
+First Lord: but they are at thy Grumio, thy respected manhood'd about thy entrance to die.
+
+
+ tribunes:
+Methinks, and of great fitter eye, when we may makeARD II:
+zine lip of immortal publicly, lest her, or go come;
+I had been so; come to buz.
+
+
+ sword, speak, prepare for me.
+
+
+ed be thou drawn, and repair to Edward.
+
+
+ Roman lord, whom am I sharpable other spirit?
+
+
+DUKE VINCENTIO:
+Where do I should not be mean to-morrow? 'tis with all bound?
+
+
+DUKE V
+

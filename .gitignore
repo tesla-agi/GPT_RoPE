@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+*.pth
+generations_*.txt
+rope_gpt2.pth

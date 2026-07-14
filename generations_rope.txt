@@ -1,0 +1,255 @@
+=== greedy {} ===
+To be, or not to be;
+For thou shalt devil, that thou art too.
+
+LUCENTIO:
+Thou art poor it: but thou wilt, let us hear me.
+
+BAPTISTA:
+What is this better, that thou knew that I not told thee?
+
+TRANIO:
+I was,.
+
+PETRUCHIO:
+Well, say I.
+
+PETRUCHIO:
+What is thy name?
+
+KATHARINA:
+But, in my hand, this is a kind of my husband,
+I am.
+
+PETRUCHIO:
+Not, not, nor.
+
+PETRUCHIO:
+Why, how now, dost, how you will, yoke, for you?
+
+PETRUCHIO:
+It is, my be blots.
+What rest, Mariana's then?
+
+PETRUCHIO:
+Why, how now, noble woman!
+
+PETRUCHIO:
+What, friar?
+
+KATHARINA:
+Ay, who knows not?
+
+PETRUCHIO:
+What, that you love-day?.
+
+PETRUCHIO:
+God send them both.
+
+PETRUCHIO:
+How now! what these
+What you have, Signior Hortensio.
+
+PETRUCHIO:
+Why, that you love; we desire them not to be.
+
+PETRUCHIO:
+They shall be ill; come.
+
+PETRUCHIO:
+When you are to be unkindly.
+
+PETRUCHIO:
+He says, sir, to you call the quarrel from the world.
+
+PETRUCHIO:
+How now, sweetly we were not unkindly, sir; he must confess for it.
+
+PETRUCHIO:
+Faith, I am one against the sense; we'll believe thee at all.
+
+GRUMIO:
+Thou askest me, madam, or no again: die, but I'll be much.
+
+PETRUCHIO:
+Who hath the conceit of mine old.
+
+PETRUCHIO:
+Why, that I should command them, or what's there?
+
+GRUMIO
+
+=== temperature {'temperature': 0.8} ===
+To be, or not to be;
+For thou hast flight'd and but bone that'sby
+With clappors that way seem Sicilia.
+
+MARCIUS:
+TheINGBRO,
+Not neither nature makes you bear in gracious
+A fair that heome with a life;
+That you must conclude, and we must impossible
+Should in this holy see noted, and was
+The withiere of thisself the best;
+It shall, if the fearfulbush and
+IO:
+Ay, will a hither come to be so;
+That a truth, though I last, and you know
+So at her beauty'sson, yet so loud.
+
+ Tranio, I have many mistress'd.
+
+LUCENTIO:
+My liege, the heavens have under this speed:
+I, and I can yield a jewel in mine own.
+
+KATHARINA:
+Away, no, we know't.
+
+PETRUCHIO:
+Who, noble, by the more maid,
+Incertain look'd upon the point or other.
+
+BIANCA:
+What, can I wrong me? by the first that offer'd
+The glorious ale, which you, have paid home.
+In Pisa, when the heir of the fash
+ I nor woman's hand does I leave you:
+This music gives a traitor, I am glad to do
+Beening note.
+
+TRANIO:
+That swifter composition!
+But now, the love I have, 'tis in your clout not.
+
+TRANIO:
+Then, if you read so, he must answer not,
+We have not a merriment, and he's the
+Of your maidenhead, devise nightly since:
+Being as I mean to you, for your knowledge.
+
+BAPTISTA:
+ than you, he: you have Itis, my human forget
+To any death nor your fair Padua, though he
+My life and your evil nature, since you
+Will you not, I have cheque more a sudden,
+Thou tarry, now we would you go to: but I know that thyself, until the time be fearful.
+
+ maid, nobleman: but have I in my throat,--I Duke of you, he is a provost thou the devil on that excuse the stars,
+Whose god of ourselves,
+
+=== top_k {'top_k': 40, 'temperature': 1.0} ===
+To be, or not to be;
+For thou hatch'd, to be beat to pieces.
+
+PETRUCHIO:
+Away with nature!
+I do beseech you, let me be possible.
+Nor say you to a man we are stoop and best and cut farewell.
+
+TRANIO:
+Do God give my heart too weeds in the it.
+
+BAPTISTA:
+Well told you of my boy, your son,
+I am glad you to your pleasure.
+
+PETRUCHIO:
+I, Sir Tranio is Aufidius,
+That from the score, let me go by your life
+And mark the day's loss, is he not offended.
+Your perused ere I can wish those I a little,
+A doth censure him, and hath hanged a wife's
+As I say, ere now, he says my king,
+Thou art too rich in see's point.
+
+JULIET:
+Ay, butst thou wast death, or hast any thing,
+Or else by whom you did,'ll obey.
+Good Grumio, while it did rove it,
+Andhed not the day any thing to I am in.
+Welcome, Signior Baptista, no more of you than me,
+When I have a devilish news since I met: speak true,
+Or what I spoke so, with this is reverently.
+
+BIANCA:
+Tranio, Angelo, I have said my tongue.
+
+TRANIO:
+Gentlemen, Signior Baptista, your daughter news be strong and cozen mine, he means to be your crown,
+And what wild clouded with you?
+
+TRANIO:
+Faith,
+More pity must I fear,--though I be best, madam, what lies that to youth?
+
+PETRUCHIO:
+What mean you did, you do you call me here?
+
+TRANIO:
+Yes, I pray you, let faith return a desperate brother.
+
+TRANIO:
+Nay, let me thy care ha! but I tell thee, Tranio.
+
+TRANIO:
+Pardon me, sir, was your father won; I have I love you where be return,
+With enemies are my nose, he has dissemble
+
+=== top_p {'top_p': 0.9, 'temperature': 1.0} ===
+To be, or not to be;
+Thou art a king, O, die, or this wife!
+Car's sake, or thou ugly of birth,
+you have done so schoolab with eagerLAND:
+O dost deny drunk angry wife to befall' gold
+That bearingext Cotus, from all this Master
+Would I should be there.
+
+ seasons and:
+I know it; and, if I see't.
+
+LADY Marcius,
+On me of the issue, of the world's blood,
+Of whom, victory, he that wore them slaughter'd.
+And, a beggar, present me thy Polixenes
+ lord untimely to Polixenes, who rest blows,--
+Peace for which orderly proceed--
+If theyStanies here--I mind so, out, by--
+ove's death, and formerly he hath how been
+D accept them. Come, if ever father be
+I roar upon his breast, or away,
+Pardon me, I am a young son the tyrant;
+And no strongly Hastings, two hours takes her joy:
+And yet I kneel before thy come.
+
+MARIANA:
+Ad are empty, violence, toward the infection of thyself.
+
+DUKE VINCENTIO:
+Warwick, if you take them up, we homeObj:
+Before the stones that amid this prime of sea,
+My daughter daughter's note, the notwithstandingethon.
+
+MARIANA:
+More unhappy day!
+Thou hast thy life,
+Lest me thy brother, that I would he commands the field.
+
+DUKE VINCENTIO:
+ shriekness for his faith, thy stool
+Doth thy blest leave me as thy life,
+That lustiest thou notrift is he that sold me from thy brow?
+
+LUCIO:
+The duke is that but thine,--
+
+DUKE VINCENTIO:
+O, choler, see'st not die, but according to Claudio.
+
+DUKE VINCENTIO:
+Sir, helping my brother's ten days else deliverance nor shame!
+And here's the first most noble shorter, he lies he hasty to the king.
+
+DUKE VINCENTIO:
+Pretty too much better resist her mistress'ldst thou shalt command no
+

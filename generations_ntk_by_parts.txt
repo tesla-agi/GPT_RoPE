@@ -1,0 +1,233 @@
+=== greedy {} ===
+To be, or not to be;
+For thou shalt me more soul nor one thing I am a friend
+That'st I would not have the maid; for thou art either,
+Hark ye in thy kindness unto all these are Angelo.
+
+LUCENTIO:
+I am going to the word: O, be gone; go,
+I'll go to Coventry me by the face of mine.
+
+PETRUCHIO:
+I'll visit the business in that but as it.
+
+PETRUCHIO:
+I'll go with thee.
+
+LUCIO:
+Sir, be gone, I will follow thee.
+
+PETRUCHIO:
+Why, what news?
+
+LUCENTIO:
+My tongue goes, old wife.
+
+LUCENTIO:
+If this be love, she's not, he means, he's come.
+
+TRANIOALUS:
+How choler is't which you are welcome, Hortensio, you are you,
+Let them accuse this.
+
+PETRUCHIO:
+And you shall be your husband! it is the gentleman that you love you.
+
+PETRUCHIO:
+Why, here's your husband, the worship is full of the maid:
+Good madam, here is the maid
+Sometime in such a sail, Mariana's office, or two fair Bianca
+Thou bear me, and I; and therefore pardon thee so much I see's point.
+
+LUCENTIO:
+O, thy sharp and hence, thou liest, madam, our turn and this.
+
+GRUMIO:
+BAPTISTA:
+Why, that is set upon my life in this business now, thou tamed me,
+If God's name be so weary so tender, but they are in
+thee. Come, sweet Kate, if ever I please my wench,
+I love thee not, thou canst, thou shalt be married:
+Thou canst love, take King Henry'st me, that thou wilt.
+
+GRUMIO:
+O, then, thy master's then, thy master! come.
+
+GRUMIO:
+Madam, if you had rather than your grace have, the watch.
+
+KATHARINA:
+Well, let me see, and I will go
+
+=== temperature {'temperature': 0.8} ===
+To be, or not to be;
+For thou hast flight'd and sets, by the Prince lived
+Is made a wife that bereft thee from a son I,
+ pulse
+Would it would not the benefit of souls
+Should be hatch'd and to go on my head,--if this present yourself
+As if a ten thousand deaths in my body be cheeks
+To itself, or I see what thou hast need within my head,
+Have been crutks: where wast't with nodding of my child,
+Thoughitating with it, time together my brother Clarence!
+
+ISABELLA:
+O, what gentlemen,
+That it is your brother's cold and her! what noise?
+
+LUCENTIO:
+This news?
+I was curst and like a good friend, that Marcius,
+More exile hath against thy speechless labour's love;
+Thy tears will make a foul ways at thy beauty,--
+That ever, though mischance of no sight be virtuous,
+Thyself the commission.
+
+PETRUCHIO:
+O monstrous prerogative:
+But didst be nearest, is the one fair a keeper news: the gates, the earth,
+If he were a son, when he be competency'd,
+More than to look on my life,thought she would he were,
+And now to pay what way, here's no speech.
+Then, for my then.
+What 'tis a match! even this, do that ever see'st
+She helps not that to-day, a crutches, how it dothre this night.
+
+ANGELO:
+How now, Mariana, bear her silver roundly level;
+The one that must be so, or my heartize them both together:
+But I am one indeed, and looks with well.
+
+TRANIO:
+Why, how can we heartily in that hear you.
+
+GREMIO:
+Away, a year is a prophet evil nature, her lips,
+That's almost salt water'd by the princess,
+That in Christend merit of takest I here, at it!
+
+us, what's pastures she then?
+
+Six i' the appear friends? speak this, true, orator,
+What's thy not by that Clarence to have his house nor any place?
+
+GREMIO:
+My
+
+=== top_k {'top_k': 40, 'temperature': 1.0} ===
+To be, or not to be;
+For thou hast undone!
+
+ANGELO:
+What hath I heard your piece your office, yourself, and give thanks
+To fight, for faith. I'll show her health, that quickly must stand:
+O, then be gone, is my liberty.
+
+COMINIUS:
+Alack, for wrong you be noble in Pisa,
+And see!
+
+ these first eye I do; for you are welcome, find; no;
+I never am in time to woo
+This sudden and your heart, I'll leave Angelo; marry Edward's side,
+To bear the pam sword of our first part or bad sword:
+Therefore, farewell.
+
+ANGELO:
+O God, make me past such tenderness known i' the sea,
+As far as 'tweremptory here is the next way
+That you shall go alone.
+
+ANGELO:
+Fear not, my fellow.
+
+DUKE VINCENTIO:
+Why, fellows, doth well we will inform these all.
+
+
+DUCHIO:
+To-morrow! a word, dear horse, to be hanged, within!
+
+VOLUMNIA:
+This is the bride, give pern oath, and not anon!
+
+Both:
+The slave, the general is worthily!
+
+! traitor, tardy, free, the bold,
+Withdraw yourselves: I, to your leave: the most noble doth.
+In all at once:
+I prit is kill'd to Padua; I'll turn your foolish woe:
+That Ily, if you should, was he so evident
+To but to o' the world. But come, this tardy, grave.
+
+DUKE OF YORK:
+When you did tell me now, ladies, was but perform'd with me
+: nay, take upon your leave.
+
+COMINIUS:
+
+What's to do here?
+
+MARIANA:
+I did; they say.
+
+MARIANA:
+I have broken lead thee to her hundred years'nicious enemy,
+Even in my house, but bring me to your countenance.
+
+Lord:
+In your company to your goods,--
+
+PRINCE EDWARD:
+O my husband!
+
+Lord:
+
+
+=== top_p {'top_p': 0.9, 'temperature': 1.0} ===
+To be, or not to be;
+Thou art as thourest thy that king nor sleep or been,
+The stopp lights in slander your angry park to run
+Your justcked sharperly three poorSupp'st,:
+For I forgive my life and wither that deeds shall speak our oath,
+Both I in my tongue that beggariled and seek before
+And.
+
+TRANIO:
+O, she was this for my woe the worse, love, that I should believe thou,
+More than I, having, new note, or wanton,
+Sp Roman, so come to some witch, and,
+The then, tears are purged of few; and therefore, O,
+ forty of a wind and foul fill'd candle-years in the youth,
+And doing heaven keeps no known to your journey,
+And change his hence and fearful of thy faults of
+To make the law: howealing, alack.Should now the music attempts.
+Where then court'st thou out poor Camillo?
+
+DUKE VINCENTIO:
+We have lost all this great Petruchio on't.
+
+DUKE VINCENTIO:
+When the least of all fitting for the Lady unquestion'd
+That grandsire to her lease; therefore, and go after,
+Let's cuff you first first whither,
+'Gives not so my heart garland, if there be heard him thus;
+Then we come to over his enemies are come to one sun,
+He'sBefore of withdraw's blameful by my traitor's flight and plausible.
+
+DUKE VINCENTIO:
+How canst thou grant our manners, swearing,
+Look for your marriage fit to merelyness and fresh:
+'Tis nothing else, noried me to Spless father's absent me;
+Yet, as please my, 'twas my name's mind to report:
+I mean time it cloudy words should be my by breasts and answer 'longs;
+To whom they cannot--for the prison, not for which time
+Thou did solicit me out of fury to liberty.
+
+PROSPEROKE VINCENTIO:
+Come, give signal to my lie, and let me kiss thy scarlet eye:
+I hear no. approach, get thee to the capital time;
+My services are to watch with rogue in this land
+My mind mis
+

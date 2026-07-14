@@ -1,0 +1,287 @@
+=== greedy {} ===
+To be, or not to be;
+For thou shalt wrong your soul unto a little fear,
+To make bold'st thy daughter and virtue,
+That am not so tender them to make,
+As thou shalt with this choice.
+
+PROSPERO:
+That wilt, let me see it.
+
+PROSPERO:
+Come, dost, with patience.
+
+PROSPERO:
+That causeou can I walk on a word.
+
+PROSPERO:
+Hence! a word, lest thou know our faults,
+And bid thee seek for thy life behind;
+Or, if thou didst, thou camest, then,
+Thou hast, too; yet, father, thou canst please me
+To think but in my bosom. The storm is thyself
+A:
+I would I have used thee no.
+
+KATHARINA:
+I'll be blushing,
+And I can do thee, when thou hast put thee.
+
+PROSPERO:
+But mark thee it:
+I'll be thy husband if thou canst, be rid of my free.
+
+PROSPERO:
+Thou camest thou with the danger that thou hast.
+
+PROSPERO:
+Thou camest thy wife: or thou camest thy wife:
+Thou camest thy wife,
+Thou didst be life, but answer this action.
+
+PROSPERO:
+Thou camest me: but have, and thou art too heavy.
+
+PROSPERO:
+Thou camest me but one: but have done thee, sweet mistress,
+And yet thou hast put thee to thy wife.
+
+PROSPERO:
+No, not I know thee.
+
+PROSPERO:
+Thou camest thy wife: thy wife, if thou shouldst command,
+Which thou hast put thee in thy counsel'st my free, not a word,
+To thee. My mother, thus thou shalt hear me:
+I wouldst thou weep, or a word, will be married.
+
+KATHARINA:
+Then never, when thou camest thy wife,
+Thou camest, thou much before thyself.
+What, ho! as thou canst, hadst thou been, or bad? thy wife,
+I wouldst not, but
+
+=== temperature {'temperature': 0.8} ===
+To be, or not to be;
+For thou hast flight'd and but food are home.
+
+Lord:
+ heaven misin ofWheneverio
+Upon my heart
+s and friends that once again
+My hand that I have learn'd
+To worthy whose pleasure to leave on life
+Calllict it for my heart.
+
+PRINCE EDWARD:
+Why, that now thy brotherhood.
+
+PRINCE EDWARD:
+How now, when monstrous' was the lords?
+
+Lord:
+By heaven forbid,
+That with all your father's house may lose.
+
+MIRANDA:
+What say you that name your father?
+
+Have I always heard that worship did throne?
+
+MIRANDA:
+If that be so well, what's in this noble suit?
+
+
+ heaven, fair Bianca, I think, my favour,
+To see your arm and I. If thou hast left thee perjured here?
+To see, it, and mark thy country.
+
+
+GRUMIO:
+O, I do so speak a tedious my heart
+To tell me, by this is as bitter jest.
+
+KATHARINA:
+God save thee, if you knew in such a king: now, know;
+I said that am not that faith please you, that art
+As cruel any other part; for, madam,
+You were not fit to do thee this hour straight,
+But what an honour shall.
+
+PROSPERO:
+Come, husband,
+We are over-duke.
+
+PROSPERO:
+Your face is false, that no great king, nor Christend:
+I have a vice's tongue as freees;
+In this last where I may seem unconstant,
+And estate he spake me all his king:
+But, is no.
+
+ARIEL:
+Welcome, good things;
+Or, things dead, when he do not see, he'll stretch it presently
+ stewards?
+If this my brother die, I go with thee;
+Thou hast thou been, though he please thee so.
+
+PRINCE EDWARD:
+F matter, sweet brother: once alone,--O, it is so.
+
+PETRUCHIO:
+That she's madly.
+
+ humility:
+Yet here stars, first report me well.
+
+
+
+=== top_k {'top_k': 40, 'temperature': 1.0} ===
+To be, or not to be;
+For thou hast undone!
+
+LADY patrimr'd, O, 'tis for hatred occasion:
+And G shall be my sovereign, for I leave me.
+
+PRINCE EDWARD:
+What, was that title in this grave?
+
+GRUMIO:
+O, would he woo'd one so little, for but I
+not any likelihood that I will dispatch your bear?
+
+TRANIO:
+I pray my name, I'll give thee your pleasure as good
+you, thatso love, God, I would marry her be gone.
+
+PETRUCHIO:
+How if my brother die, let me desire thee.
+
+GRUMIO:
+Darewell, or in my presence do I'll swear--
+
+KATHARINA:
+ thee, if thou know'st me, thou must I.
+
+PETRUCHIO:
+Go, get thee.
+
+KATHARINA:
+Myself, in your arms is as strong as great as I.
+
+PETRUCHIO:
+What, is the sea-faced Henry?-t thou out.
+
+PETRUCHIO:
+Why, affection not the day.
+
+PETRUCHIO:
+Thou canst not, Cuse not be, madam, a tale.
+
+KATHARINA:
+Why, then, now, if thou know'st, rather.
+
+GRUMIO:
+Thou'Tis full of as thy mind to stand.
+
+KATHARINA:
+There to God give me leave.
+
+PETRUCHIO:
+Madam, before thee.
+
+PETRUCHIO:
+Gentlemen, go, I.
+
+KATHARINA:
+What, will you thine can be to-morrow?
+
+GRUMIO:
+I love thee, madam: and I will, old Gremio.
+
+KATHARINA:
+Look, why, there is no eyes in my absence of a word,
+Take upon you.
+
+PETRUCHIO:
+Away, or at once.
+
+PETRUCHIO:
+I'll be strong and usurp me at you. Farewell.
+Was not you the shepherd's first?
+
+GREMIO:
+
+
+=== top_p {'top_p': 0.9, 'temperature': 1.0} ===
+To be, or not to be;
+Thou art not, kind of weapon, forefows'st thou--
+
+LADYable:
+Let's be inangling woman,
+I mean atT:
+O view this coming,--
+
+HASTINGS:
+O, but now?
+
+DUKE VINCENTIO:
+Poor deserts, but incensed now would you had,
+Mine bed of be so at Aering the sea,
+But never may not how it hath
+These words to be pertinent both.
+
+MARIANA:
+I mean theavoided is know't, and with
+They be scorn'd to be a with such.
+
+Lord:
+Pardon me, gentle my lord;
+I have much riches but religion; I will coast
+My tale after o'er mine honourable husband,
+And that by the rest opey yellowen,
+They yet notfal by this good dukes,
+Say not you something bread with you forth.
+ kind
+CALO:
+Ay, kin, leave, be hanged night.
+
+BAPTISTA:
+So, sweet music! speak: did but to ignoble heavens!
+
+MIRANDA:
+Stay me some comfort.
+
+BIANCA:
+What dost me with bearsELBOWB.'
+
+PETRUCHIO:
+HORTENSIO:
+What then?
+
+GRUMIO:
+Ay, ten times again.
+
+GRUMIO:
+Ay, but my husband!
+I am a father's fault, but my tongue,
+ jrive, and all the lawful magistrate,
+Were he's nothing but the deed was of many cause.
+
+LUCENTIO:
+What, upon my body, what he has!
+My effect this, going to my life-day,
+Why, that my uncle,--if the mind be proud,--
+He was so to be honest, discover
+ him so Trot to my shame, sir, he's a word upon.
+
+BIANCA:
+Ay, then many pieces must; as I say, I believe them,
+He thinks, but seven, therein my life,
+This night.
+
+GRUMIO:
+My lord, apart, this noble sea-Look together,
+Hath he no fill'd before his head and vouch against your
+
